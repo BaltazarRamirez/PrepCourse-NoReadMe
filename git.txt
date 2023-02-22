@@ -1,0 +1,4 @@
+git status; saber el estado de los commits
+git add; Agregar archivo
+git commit -m "Algun mensaje para el commit"; Hacer commit con un mensaje
+git log; visualizar los commits realizados
